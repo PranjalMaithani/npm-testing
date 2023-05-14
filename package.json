@@ -1,0 +1,21 @@
+{
+  "name": "metal-name",
+  "version": "1.0.0",
+  "description": "returns a metal name",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "metal",
+    "random"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.4"
+  }
+}
