@@ -1,6 +1,6 @@
 {
   "name": "@pranjalm/metal-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "returns a metal name",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
